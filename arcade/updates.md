@@ -6,7 +6,7 @@ so,, firstly, i started off with a few things in mind : <br>
 - what i have <br>
 - what i could get my hands on <br>
 - what i wanted to make <br>
-- what i wanted to learn from the building experience <br>
+- what i wanted to learn from the building experience <br><br>
 
 # working with what i have : <br>
 - i pretty much got that i NEED to get a raspberry pi desperately <br>
@@ -18,13 +18,18 @@ so,, firstly, i started off with a few things in mind : <br>
 <br><br>
 
 # my objective was, for the near-ish future, <a href ="https://www.pocket-lint.com/how-to-use-raspberry-pi-5-beginner-projects/">to make</a> : <br>
-- macropad with 2+ knobs / general numpad (using pi pico + customized pcb) <br>
-- cyberdeck / <a href="https://www.instructables.com/Make-a-Portable-Computer-Using-a-Raspberry-Pi/">portable desktop computer using raspberry pi 5 </a><br>
+- macropad with 2+ knobs / general numpad (using pi pico + customized pcb) <br><br>
+![image](images/b2cd684dbebe590c5189df350b9ba5bd.jpg) ![image](images/c00044364b1433a77d1ffdd0d2182ed3.jpg) <br>
+
+- cyberdeck / <a href="https://www.instructables.com/Make-a-Portable-Computer-Using-a-Raspberry-Pi/">portable desktop computer using raspberry pi 5 </a><br><br>
+![image](images/729e4665f5b2caf47ca17cafd64e7bad.jpg) ![image](images/71734aed0854f98c4ada6fd2eeeb16d7.jpg)
+<br>
     - raspberry pi 5's system-on-chip has been upgraded + i/o speeds have been improved <br>
     - debian based linux operating systems do work but windows on R doesn't <br>
     - external pcle 2.0 port so you can run your OS from a fast external nvme ssd <br>
 - hosting my own cloud server / media server using raspberry pi <br>
 - hosting home network storage / NAS <a href = "https://www.youtube.com/watch?v=gyMpI8csWis">(network addressed storage) using raspberry pi 5 </a><br>
+![image](images/08cba19aa7b8a4d319c77bdd8f570397.jpg)
 <br>
 
 what i quickly found out for this was that -
