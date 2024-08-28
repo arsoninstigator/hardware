@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # a deep dive into hardware projects 
 <br>
 i've been hoping for the <b>rpi zero</b> to go on sale at the arcade shop for a while and finally have the tickets to place an order, so i started brainstorming to think about what i'd want to do with it. i've heard great reviews, spectacular even, but with no hands-on experience on a personal level, i turned to my good old friend, the google search engine. 
@@ -22,8 +24,14 @@ so,, firstly, i started off with a few things in mind : <br>
 # my objective for the near-ish future <a href ="https://www.pocket-lint.com/how-to-use-raspberry-pi-5-beginner-projects/">was</a> : <br>
 - to build macropad with 2+ knobs / general numpad (using pi pico + customized pcb) <br><br>
 
+<div class="row">
+  <div class="column">
 <img src="images/b2cd684dbebe590c5189df350b9ba5bd.jpg" alt="Description" width="300">
+  </div>
+  <div class="column">
 <img src="images/c00044364b1433a77d1ffdd0d2182ed3.jpg" alt="Description" width="300">
+  </div>
+</div>
 <!-- ![image](images/b2cd684dbebe590c5189df350b9ba5bd.jpg) ![image](images/c00044364b1433a77d1ffdd0d2182ed3.jpg)  -->
 
 <br>
