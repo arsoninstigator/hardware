@@ -1,5 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
+
 # a deep dive into hardware projects 
 <br>
 i've been hoping for the <b>rpi zero</b> to go on sale at the arcade shop for a while and finally have the tickets to place an order, so i started brainstorming to think about what i'd want to do with it. i've heard great reviews, spectacular even, but with no hands-on experience on a personal level, i turned to my good old friend, the google search engine. 
@@ -24,22 +25,24 @@ so,, firstly, i started off with a few things in mind : <br>
 # my objective for the near-ish future <a href ="https://www.pocket-lint.com/how-to-use-raspberry-pi-5-beginner-projects/">was</a> : <br>
 - to build macropad with 2+ knobs / general numpad (using pi pico + customized pcb) <br><br>
 
-<div class="row">
-  <div class="column">
+<p float="left">
 <img src="images/b2cd684dbebe590c5189df350b9ba5bd.jpg" alt="Description" width="300">
-  </div>
-  <div class="column">
 <img src="images/c00044364b1433a77d1ffdd0d2182ed3.jpg" alt="Description" width="300">
-  </div>
-</div>
+</p>
 <!-- ![image](images/b2cd684dbebe590c5189df350b9ba5bd.jpg) ![image](images/c00044364b1433a77d1ffdd0d2182ed3.jpg)  -->
 
 <br>
 - to build cyberdeck / <a href="https://www.instructables.com/Make-a-Portable-Computer-Using-a-Raspberry-Pi/">portable desktop computer using raspberry pi</a> (either a palm-top or a briefcase enclosed pc) <br><br>
 
+<p float="left">
 <img src="images/729e4665f5b2caf47ca17cafd64e7bad.jpg" alt="Description" width="300">
 <img src="images/71734aed0854f98c4ada6fd2eeeb16d7.jpg" alt="Description" width="300">
 <!-- ![image](images/729e4665f5b2caf47ca17cafd64e7bad.jpg) ![image](images/71734aed0854f98c4ada6fd2eeeb16d7.jpg) -->
+</p>
+<p float="left">
+<img src="images/85c0d58be4a7cdbce815d1b7b8544ae4.jpg" alt="Description" width="300">
+<img src="images/06d7160894f30f9e56c7b203ba0ad23c.jpg" alt="Description" width="300">
+</p>
 
 <br>
         - raspberry pi 5's system-on-chip has been upgraded + i/o speeds have been improved <br>
