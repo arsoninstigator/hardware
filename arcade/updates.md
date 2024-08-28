@@ -30,11 +30,11 @@ so,, firstly, i started off with a few things in mind : <br>
     - external pcle 2.0 port so you can run your OS from a fast external nvme ssd <br>
 - to host my own cloud server / media server using raspberry pi <br>
 - to host home network storage / NAS <a href = "https://www.youtube.com/watch?v=gyMpI8csWis">(network addressed storage) using raspberry pi 5 </a><br><br>
-![image](images/08cba19aa7b8a4d319c77bdd8f570397.jpg){width=30%}
+![image](images/08cba19aa7b8a4d319c77bdd8f570397.jpg){width=30}
 <br>
 - to salvage parts i had lying around from old used-up and unusable tech <br><br>
 
 # what i quickly found out :
 - i do NOT have the skillset for this. not at all. not even one part of it. this is all very advanced stuff and requires years of experience and a LOT of hours of understanding. i need to aim smaller, change the goal, be realistic. <br>
 - i should learn more about the gemini pda, cosmo communicator, astro slide etc. <br>
-- i should stick to software modifications for now because firmware > hardware (sorry) <br>
+- i should stick to software modifications for now because firmware >>> hardware (sorry) <br>
