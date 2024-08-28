@@ -2,6 +2,7 @@
 <br>
 i've been hoping for the <b>rpi zero</b> to go on sale at the arcade shop for a while and finally have the tickets to place an order, so i started brainstorming to think about what i'd want to do with it. i've heard great reviews, spectacular even, but with no hands-on experience on a personal level, i turned to my good old friend, the google search engine. 
 <br><br>
+
 # starting off
 so,, firstly, i started off with a few things in mind : <br>
 - what i have <br>
@@ -29,7 +30,7 @@ so,, firstly, i started off with a few things in mind : <br>
     - external pcle 2.0 port so you can run your OS from a fast external nvme ssd <br>
 - to host my own cloud server / media server using raspberry pi <br>
 - to host home network storage / NAS <a href = "https://www.youtube.com/watch?v=gyMpI8csWis">(network addressed storage) using raspberry pi 5 </a><br><br>
-![image](images/08cba19aa7b8a4d319c77bdd8f570397.jpg)
+![image](images/08cba19aa7b8a4d319c77bdd8f570397.jpg){width=30%}
 <br>
 - to salvage parts i had lying around from old used-up and unusable tech <br><br>
 
