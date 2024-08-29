@@ -28,6 +28,7 @@ so,, firstly, i started off with a few things in mind : <br>
 <p float="left">
 <img src="images/b2cd684dbebe590c5189df350b9ba5bd.jpg" alt="Description" width="300">
 <img src="images/c00044364b1433a77d1ffdd0d2182ed3.jpg" alt="Description" width="300">
+<img src="images/6619401b76542b47d11efecb9cb87b2f.jpg" alt="Description" width="300">
 </p>
 <!-- ![image](images/b2cd684dbebe590c5189df350b9ba5bd.jpg) ![image](images/c00044364b1433a77d1ffdd0d2182ed3.jpg)  -->
 
@@ -43,7 +44,7 @@ so,, firstly, i started off with a few things in mind : <br>
 <p float="left">
 <img src="images/85c0d58be4a7cdbce815d1b7b8544ae4.jpg" alt="Description" width="300">
 <img src="images/06d7160894f30f9e56c7b203ba0ad23c.jpg" alt="Description" width="300">
-<img src="images/ae00281e5499fa92ded42132b0a86481.jpg" alt="Description" width="300">
+<img src="images/ae00281e5499fa92ded42132b0a86481.jpg" alt="Description" height="240">
 </p>
 
 <br>
